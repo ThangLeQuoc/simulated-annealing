@@ -10,6 +10,8 @@ namespace SimulatedAnnealing
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Day la giai thuat Annel");
+            Console.ReadKey();
         }
     }
 }
